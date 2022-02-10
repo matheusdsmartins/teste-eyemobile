@@ -89,7 +89,7 @@
     "jest": "^24.1.0",
     "jest-css-modules": "^1.1.0",
     "less-loader": "^4.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "postcss-flexbugs-fixes": "^4.1.0",
     "postcss-loader": "^2.1.6",
     "prettier": "1.11.1",
